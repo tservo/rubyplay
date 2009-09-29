@@ -17,7 +17,7 @@ require 'cgi'
 require 'rexml/document'
 require 'optparse'
 
-API_KEY_FILE = '/home/barce/apikeys/yahoo_boss.txt'
+API_KEY_FILE = '/Users/Jim/apikeys/yahoo_boss.txt'
 
 #
 #

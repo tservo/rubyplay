@@ -19,7 +19,7 @@ require 'optparse'
 require 'json'
 
 
-API_KEY_FILE = '/Users/barce/apikeys/yelp_YWSID.txt'
+API_KEY_FILE = '/Users/Jim/apikeys/yelp_YWSID.txt'
 
 #
 #
