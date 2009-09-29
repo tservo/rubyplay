@@ -83,6 +83,6 @@ puts "Searching for " + query + "..."
 # let's get results from yelp
 Bossweb.new("site:yelp.com #{query}").results 
 
-# let's get results from chowhound 
-Bossweb.new("site:chowhound.com #{query}").results
+# let's get results from anywhere
+Bossweb.new("#{query}").results
 
