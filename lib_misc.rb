@@ -26,10 +26,10 @@ def randomizedlist_swap(size)
   while list.size > 0
     pivot       = rand(list.size)
     tmp         = list[0]
-    list[0]     = list[pivot] 
+    list[0]     = list[pivot]
     list[pivot] = tmp
     out         = list.shift
-    randomlist.push(out) 
+    randomlist.push(out)
   end
   return randomlist
 end
