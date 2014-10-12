@@ -7,7 +7,7 @@ check_sshd.rb - a script written for McCann Erickson in NYC to see if an
 SSH connection is still up. If the connection goes down, the user is notified
 via twitter.
 
-fdaemon_search.rb - a client script that uses Gearman to search the Internet 
+fdaemon_search.rb - a client script that uses Gearman to search the Internet
 for servers with finger daemons.
 
 foodsearch.rb - a script that uses the Yahoo BOSS search API to find
